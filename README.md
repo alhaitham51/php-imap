@@ -1,9 +1,9 @@
 # PHP IMAP
 
-[![GitHub release](https://img.shields.io/github/release/barbushin/php-imap.svg?style=flat-square)](https://packagist.org/packages/php-imap/php-imap)
-[![Supported PHP Version](https://img.shields.io/packagist/php-v/php-imap/php-imap.svg)](README.md)
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Packagist](https://img.shields.io/packagist/dt/php-imap/php-imap.svg?style=flat-square)](https://packagist.org/packages/php-imap/php-imap)
+[![GitHub release](https://img.shields.ios/github/release/barbushin/php-imap.svg?style=flat-square)](https://packagist.org/packages/php-imap/php-imap)
+[![Supported PHP Version](https://img.shields.ios/packagist/php-v/php-imap/php-imap.svg)](README.md)
+[![Software License](https://img.shields.ios/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
+[![Packagist](https://img.shields.ios/packagist/dt/php-imap/php-imap.svg?style=flat-square)](https://packagist.org/packages/php-imap/php-imap)
 
 [![CI PHP Unit Tests](https://github.com/barbushin/php-imap/actions/workflows/php_unit_tests.yml/badge.svg?branch=master)](https://github.com/barbushin/php-imap/actions/workflows/php_unit_tests.yml)
 [![CI PHP Static Analysis](https://github.com/barbushin/php-imap/actions/workflows/php_static_analysis.yml/badge.svg?branch=master)](https://github.com/barbushin/php-imap/actions/workflows/php_static_analysis.yml)
